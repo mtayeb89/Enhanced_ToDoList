@@ -14,12 +14,12 @@ This is a simple command-line To-Do List application written in Python. The app 
 
 # How to Run
 
-    Make sure you have Python installed on your machine.
-    Download the script and save it to a directory.
-    Open a terminal or command prompt.
-    Navigate to the directory where the script is located.
-    Run the script using the command: python to_do_list.py.
-    Follow the on-screen instructions to manage your tasks.
+    1- Make sure you have Python installed on your machine.
+    2- Download the script and save it to a directory.
+    3- Open a terminal or command prompt.
+    4- Navigate to the directory where the script is located.
+    5- Run the script using the command: python to_do_list.py.
+    6- Follow the on-screen instructions to manage your tasks.
 
 # Future Enhancements
 
